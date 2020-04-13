@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{Cf5j:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),o=(n("Wbzz"),n("Bl7J")),r=(n("tBDR"),n("vrFN"));t.default=function(){return l.a.createElement(o.a,null,l.a.createElement(r.a,{title:"Home"}),l.a.createElement("h1",null,"Recommended Addons for Goldmaking"),l.a.createElement("p",null,"Welcome to your new Gatsby site."),l.a.createElement("p",null,"Now go build something great."))}}}]);
+//# sourceMappingURL=component---src-pages-addons-js-92f6d38ba1b1e99870ee.js.map

@@ -13,7 +13,7 @@ const Header = ({ siteTitle }) => (
         padding: `1.45rem 1.0875rem`,
       }}
     >
-      <h1 class="title">
+      <h1 className="title">
         <Link
           to="/"
           style={{
@@ -27,7 +27,7 @@ const Header = ({ siteTitle }) => (
 
       <nav> 
         <li><NavLink to="/blog">Blog</NavLink></li>
-        <li><NavLink to="/addons">Addons</NavLink></li>
+        <li><NavLink to="/recommended-addons">Addons</NavLink></li>
         <li><NavLink to="/about">About Killerbyte</NavLink></li>
       </nav>
     </div>

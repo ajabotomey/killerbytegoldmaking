@@ -14,12 +14,12 @@ I have three main addons for gathering as well as creating routes based on the n
 
 **1. GatherMate 2**
 GatherMate 2 marks the map with nodes from herbing and mining. 
-![Western Plaguelands](../../images/04-15-2020-recommended-addons/westernplaguelands.png)
+![Western Plaguelands](https://ajabotomey.github.io/killerbytegoldmaking/images/04-15-2020-recommended-addons/westernplaguelands.png)
 
 **2. Routes**
 Routes takes the data from GatherMate 2 and converts that into a route that can me followed on a minimap or through FarmHUD.
-![Western Plaguelands with route](../../images/04-15-2020-recommended-addons/westernplaguelandsroute.png)
+![Western Plaguelands with route](https://ajabotomey.github.io/killerbytegoldmaking/images/04-15-2020-recommended-addons/westernplaguelandsroute.png)
 
 **3. FarmHUD**
 FarmHUD takes the GatherMate2 and Routes overlay from the minimap and overlays it across your screen
-![FarmHUD in Zuldazar](../../images/04-15-2020-recommended-addons/WoWScrnShot_041520_164637.jpg)
+![FarmHUD in Zuldazar](https://ajabotomey.github.io/killerbytegoldmaking/images/04-15-2020-recommended-addons/WoWScrnShot_041520_164637.jpg)

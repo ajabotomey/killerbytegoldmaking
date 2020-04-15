@@ -20,7 +20,7 @@ module.exports = {
       options: {
         name: `blog`,
         path: `${__dirname}/src/blog`,
-      },
+      }
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
@@ -43,13 +43,14 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 800,
+              maxWidth: 590,
               showCaptions: true,
+              linkImagesToOriginal: true,
             }
           }
         ]
-      },
-    },
+      }
+    }
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,

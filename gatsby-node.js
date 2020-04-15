@@ -5,10 +5,9 @@
  */
 
 // You can delete this file if you're not using it
+const path = require("path")
 
-const path = require("path");
-
-exports.createPages = async ({ actions, graphql }) => {
+exports.createPages = async({ actions, graphql }) => {
   const { createPage } = actions;
 
   const blogPostTemplate = path.resolve(`src/templates/blog-post.js`);
@@ -29,7 +28,6 @@ exports.createPages = async ({ actions, graphql }) => {
       }
     }
   `)
-
   if (result.errors) {
     reporter.panicOnBuild(`Error while running GraphQL query`);
     return;
@@ -39,7 +37,13 @@ exports.createPages = async ({ actions, graphql }) => {
     createPage({
       path: node.frontmatter.path,
       component: blogPostTemplate,
-      context: {},
+      context: {}
     })
   })
+}
+
+const { fmImagesToRelative } = require('gatsby-remark-relative-images');
+
+exports.onCreateNode = ({ node }) => {
+    fmImagesToRelative(node);
 }

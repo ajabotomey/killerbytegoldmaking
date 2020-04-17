@@ -40,6 +40,7 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          `gastby-remark-relative-images`,
           {
             resolve: `gatsby-remark-images`,
             options: {

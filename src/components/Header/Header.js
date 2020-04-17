@@ -2,16 +2,14 @@ import { Link } from "gatsby"
 import PropTypes, { node } from "prop-types"
 import React from "react"
 
-import NavLink from "../components/navLink"
+import navigationButtons from "./navigationButtons";
+import NavList from "../NavList";
+import style from "./style.module.css";
 
 const Header = ({ siteTitle }) => (
   <header>
     <div
-      style={{
-        margin: `0 auto`,
-        maxWidth: 960,
-        padding: `1.45rem 1.0875rem`,
-      }}
+      className={style.headerWrapper}
     >
       <h1 className="title">
         <Link
@@ -25,11 +23,7 @@ const Header = ({ siteTitle }) => (
         </Link>
       </h1>
 
-      <nav> 
-        <li><NavLink to="/blog">Blog</NavLink></li>
-        <li><NavLink to="/recommended-addons">Addons</NavLink></li>
-        <li><NavLink to="/about">About Killerbyte</NavLink></li>
-      </nav>
+      <NavList navigationButtons={navigationButtons} />
     </div>
   </header>
 )

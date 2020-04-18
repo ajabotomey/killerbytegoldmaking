@@ -8,6 +8,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { useStaticQuery, graphql } from "gatsby";
+import { Helmet } from "react-helmet";
 
 import Header from "./Header";
 import "./layout.css";
@@ -25,6 +26,9 @@ const Layout = ({ children }) => {
 
   return (
     <>
+      <Helmet>
+        <script type="text/javascript" src="https://wow.zamimg.com/widgets/power.js"></script>
+      </Helmet>
       <Header siteTitle={data.site.siteMetadata.title} />
       <div
         style={{

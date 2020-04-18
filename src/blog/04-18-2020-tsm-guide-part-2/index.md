@@ -24,4 +24,8 @@ So, you want to start using TradeSkillMaster to make gold. TSM is a fantastic ad
 
  ![Killerbyte's TSM Groups](./tsmGroup.png)
 
- [Test](https://www.wowhead.com/item=77949/)
+ If you hover over the Base Group in the left hand panel, a + symbol should appear. Click on that + symbol. On the right hand side, you can rename the group to BoEs. 
+
+ Now underneath, there are two parts, Ungrouped Items and Grouped Items. Grouped Items should be completely empty. To add items, simply select them in the Ungrouped Items section and then click Select Items to Add. To remove items, select them in the Grouped Items and then click Select Items to Remove. 
+
+ And there you go, you now have the ability to create TSM groups. You can create nested groups as well so like in my image, my BoE's are split into multiple categories.

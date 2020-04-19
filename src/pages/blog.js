@@ -18,7 +18,7 @@ export default function Blog({ data }) {
                 <h1>
                   <Link to={post.frontmatter.path}>{post.frontmatter.title}</Link>
                 </h1>
-                <h2>{post.frontmatter.date} - by {post.frontmatter.author}</h2>
+                <h3>{post.frontmatter.date} - by {post.frontmatter.author}</h3>
                 <p>{post.excerpt}</p>
               </div>
             )

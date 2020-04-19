@@ -11,3 +11,15 @@
   background-image: radial-gradient(white 54%, #d6d6d6 85%);
   margin: 8px;
 }
+
+h1 {
+  color: black;
+}
+
+.blog-post-preview > h1 > a {
+  color: black
+}
+
+.blog-post-preview > h1 > a:hover {
+  color: grey
+}

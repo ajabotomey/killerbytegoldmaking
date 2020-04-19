@@ -7,7 +7,7 @@ title: "Recommended Goldmaking Addons"
 
 ###Basic Goldmaking Addons
 
-In general, I tend to use [TradeSkillMaster](https://www.tradeskillmaster.com) or TSM because it is arguably the best goldmaking toolkit out there for goldmakers. There are plenty of guides out there on how to use TSM from [HazelNuttyGames](https://www.youtube.com/playlist?list=PLHBcemKOV_HZIeh3g4E_S_2hdq14YGzF9) to [SamadanPlaysWoW](https://www.youtube.com/playlist?list=PLG8qo-Ls_-9Yy_gM2j5ASyDBBnIVregnP). I tend to use TSM groups from both [Sheyrah](https://pastebin.com/u/Sheyrah) and [Torack](https://pastebin.com/u/Torack) which imports profession groups. I may write some additional guides if time permits.
+In general, I tend to use [TradeSkillMaster](https://www.tradeskillmaster.com) or TSM because it is arguably the best goldmaking toolkit out there for goldmakers. There are plenty of guides out there on how to use TSM from [HazelNuttyGames](https://www.youtube.com/playlist?list=PLHBcemKOV_HZIeh3g4E_S_2hdq14YGzF9) to [SamadanPlaysWoW](https://www.youtube.com/playlist?list=PLG8qo-Ls_-9Yy_gM2j5ASyDBBnIVregnP) or even right [here](/tsm-guide-part-1). I tend to use TSM groups from both [Sheyrah](https://pastebin.com/u/Sheyrah) and [Torack](https://pastebin.com/u/Torack) which imports profession groups. I may write some additional guides if time permits.
 
 ###Addons for gathering professions
 I have three main addons for gathering as well as creating routes based on the nodes that I find. 

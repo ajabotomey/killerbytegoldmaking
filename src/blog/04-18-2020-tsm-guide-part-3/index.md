@@ -9,11 +9,11 @@ So, you want to start using TradeSkillMaster to make gold. TSM is a fantastic ad
  - [Setting up a TSM Account and the TSM App](/tsm-guide-part-1)
  - [TSM Introduction and TSM Groups](/tsm-guide-part-2)
  - [TSM Operations and posting our first auctions](/tsm-guide-part-3)
- - TSM Sniper
- - Crafting items with TSM
- - TSM Mailing Operations
+ - [Crafting items with TSM](./tsm-guide-part-4)
  - TSM Custom Prices
+ - TSM Mailing Operations
  - Warehousing Operations
+ - TSM Sniper
 
  In this part, we're going to introduce you to TSM operations, create our first Auction operation and then post our BoE's onto the Auction House using TSM.
 

@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: "/killerbytegoldmaking",
   siteMetadata: {
     title: `Killerbyte Goldmaking`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    description: `Insert generic goldmaking description here`,
     author: `@ajabotomey`,
   },
   plugins: [
@@ -44,7 +44,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 800,
+              maxWidth: 900,
               showCaptions: true,
               linkImagesToOriginal: true,
             }

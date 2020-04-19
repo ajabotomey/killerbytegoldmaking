@@ -9,11 +9,11 @@ So, you want to start using TradeSkillMaster to make gold. TSM is a fantastic ad
  - [Setting up a TSM Account and the TSM App](/tsm-guide-part-1)
  - [TSM Introduction and TSM Groups](/tsm-guide-part-2)
  - [TSM Operations and posting our first auctions](/tsm-guide-part-3)
- - TSM Sniper
- - Crafting items with TSM
- - TSM Mailing Operations
+ - [Crafting items with TSM](./tsm-guide-part-4)
  - TSM Custom Prices
+ - TSM Mailing Operations
  - Warehousing Operations
+ - TSM Sniper
 
  Here in part 2, we will be introducing you to TradeSkillMaster inside World of Warcraft and creating our first group which will contain Bind of Equip items or BoEs. These particular items are easy enough to come across from questing to running dungeons and the occasional raid. Now these items can sell as there are people out there wanting transmog for their characters or people running the AllTheThings addon and they are collecting appearances.
 
@@ -23,7 +23,6 @@ So, you want to start using TradeSkillMaster to make gold. TSM is a fantastic ad
  So, here on the dashboard, you can see some statistics like how much gold I have made, how much gold I have spelt and what profit I have made. Personally, I don't pay attention to much to it but you can modify the data to look at all of your characters or a particular character.
 
  Now we need to create our first group. So click on the Groups button and you should have a clean slate unlike myself.
-
  ![Killerbyte's TSM Groups](./tsmGroup.png)
 
  If you hover over the Base Group in the left hand panel, a + symbol should appear. Click on that + symbol. On the right hand side, you can rename the group to BoEs. 

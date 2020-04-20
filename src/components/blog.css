@@ -17,9 +17,12 @@ h1 {
 }
 
 .blog-post-preview > h1 > a {
-  color: black
+  color: black;
+  transition: color 0.2s ease;
+  font-family: "LifeCraft";
+  font-weight: 200;
 }
 
 .blog-post-preview > h1 > a:hover {
-  color: grey
+  color: grey;
 }

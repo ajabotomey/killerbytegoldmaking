@@ -1,8 +1,8 @@
-import React from "react"
-import { Link, graphql } from "gatsby"
-import { Helmet } from "react-helmet"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
+import React from "react";
+import { graphql, navigate } from "gatsby";
+import Layout from "../components/layout";
+import SEO from "../components/seo";
+import style from "./style.module.css";
 
 export default function Blog({ data }) {
   const { edges: posts } = data.allMarkdownRemark;
@@ -14,9 +14,9 @@ export default function Blog({ data }) {
           .filter(post => post.node.frontmatter.title.length > 0)
           .map(({ node: post }) => {
             return (
-              <div className="blog-post-preview">
+              <div className={style.blogPostPreview} onClick={() => navigate(post.frontmatter.path)}>
                 <h1>
-                  <Link to={post.frontmatter.path}>{post.frontmatter.title}</Link>
+                  <div className={style.blogTitle} >{post.frontmatter.title}</div>
                 </h1>
                 <h3>{post.frontmatter.date} - by {post.frontmatter.author}</h3>
                 <p>{post.excerpt}</p>

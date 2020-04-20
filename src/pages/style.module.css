@@ -1,8 +1,7 @@
 .blogTitle {
   color: black;
   transition: color 0.2s ease;
-  font-family: "LifeCraft";
-  font-weight: 200;
+  font-size: 30px;
 }
 
 .blogPostPreview {

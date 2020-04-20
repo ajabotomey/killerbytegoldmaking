@@ -1,0 +1,36 @@
+:root {
+  --portrait-height: 100px;
+}
+
+.portrait {
+  position: absolute;
+  height: var(--portrait-height);
+  margin-left: -48px;
+  margin-top: 2px;
+}
+
+.portrait > img {
+  height: var(--portrait-height);
+  transform: scaleX(-1);
+  z-index: 1;
+  filter: invert();
+  left: 0;
+}
+
+.portrait[data-direction="left"] > img {
+  transform: scaleX(1);
+}
+
+.portraitBlockout {
+  height: calc(var(--portrait-height) - 70px);
+  background-color: rebeccapurple;
+  position: absolute;
+  top: 30px;
+  left: 50px;
+  width: 100%;
+  z-index: 2;
+}
+
+.portraitBlockout[data-direction="left"] {
+  left: -50px;
+}

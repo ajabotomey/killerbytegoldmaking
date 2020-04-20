@@ -5,15 +5,11 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding-left: 74px;
 }
 
-@font-face {
-  font-family: LiteCraft;
-  src: url('../../font/litecraft.ttf') format(truetype);
-  font-weight: normal;
-  font-style: normal;
-}
-
-.title {
-  font-family: LiteCraft;
+.headerWrapper > h1 {
+  z-index: 3;
+  font-family: "LifeCraft";
+  font-weight: 200;
 }

@@ -10,28 +10,28 @@ So, you want to start using TradeSkillMaster to make gold. TSM is a fantastic ad
  - [TSM Introduction and TSM Groups](/tsm-guide-part-2)
  - [TSM Operations and posting our first auctions](/tsm-guide-part-3)
  - [Crafting items with TSM](./tsm-guide-part-4)
- - TSM Custom Prices
+ - [TSM Custom Prices](./tsm-guide-part-5)
  - TSM Mailing Operations
  - Warehousing Operations
  - TSM Sniper
 
- In this part, we're going to introduce you to TSM operations, create our first Auction operation and then post our BoE's onto the Auction House using TSM.
+In this part, we're going to introduce you to TSM operations, create our first Auction operation and then post our BoE's onto the Auction House using TSM.
 
- Now there are 6 types of TSM operations
-  - Auctioning
-    - Can set a min, max and a normal price for groups using that operation
-  - Crafting
-    - Can queue items to craft.
-  - Mailing
-    - Can mail items to a particular character. e.g. Lockboxes to a Rogue character.
-  - Shopping
-    - Can search for cheap items from a particular group on the Auction House
-  - Sniper
-    - Helps to snag cheap items as they are posted onto the Auction House
-  - Warehousing
-    - Automate moving certain items between your bank and your inventory
-  - Vendoring
-    - Can automate buying items from a vendor i.e. Parchment for scribes.
+Now there are 6 types of TSM operations
+ - Auctioning
+  - Can set a min, max and a normal price for groups using that operation
+ - Crafting
+  - Can queue items to craft.
+ - Mailing
+  - Can mail items to a particular character. e.g. Lockboxes to a Rogue character.
+ - Shopping
+  - Can search for cheap items from a particular group on the Auction House
+ - Sniper
+  - Helps to snag cheap items as they are posted onto the Auction House
+ - Warehousing
+  - Automate moving certain items between your bank and your inventory
+ - Vendoring
+  - Can automate buying items from a vendor i.e. Parchment for scribes.
 
 Now we will touch on most of these operations as the guide goes along but for this part, we will only be focusing on the auctioning operation. Now we will revisit our BoE group and you should see an extra tab called Group Operations. Click on that and you should see something like this.
 ![TSM Default Operations](./tsmOperations.png)

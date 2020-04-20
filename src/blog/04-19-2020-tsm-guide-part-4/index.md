@@ -10,7 +10,7 @@ So, you want to start using TradeSkillMaster to make gold. TSM is a fantastic ad
  - [TSM Introduction and TSM Groups](/tsm-guide-part-2)
  - [TSM Operations and posting our first auctions](/tsm-guide-part-3)
  - [Crafting items with TSM](./tsm-guide-part-4)
- - TSM Custom Prices
+ - [TSM Custom Prices](./tsm-guide-part-5)
  - TSM Mailing Operations
  - Warehousing Operations
  - TSM Sniper
@@ -29,9 +29,7 @@ I'm going to use this operation for crafting [Deep Sea Bags](https://www.wowhead
 We can now go back to the crafting window and make use of the Groups tab on the left hand side of the window. Select the group with the crafting operation and click Restock Selected Groups to add items automatically to the Crafting Queue like below.
 ![Yay, we can craft stuff automatically now](./tsmQueue.png)
 
-At this point, I should point out that there are pre-made groups that other goldmakers have created. I mentioned in the [Recommended Addons](/recommended-addons) guide that I use both [Sheyrah](https://pastebin.com/u/Sheyrah) and [Torack](https://pastebin.com/u/Torack) which imports profession groups. To import these groups within WoW, after copying the group you want, you open the main TSM window and click on Import/Export. Paste the contents in the text area provided and click on Import. 
-![TSM Import/Export Window](./tsmImport.png)
-
-This will take a bit to process particularly for the larger groups. You will be sent to another window asking if you want to import the groups/operations. Click Confirm and then you have imported groups and some will have operations already attached.
+Another benefit of the TSM Crafting Window is the Gathering Window. As you queue crafts in the main crafting window, you can use the Gathering window to see what materials you need. This can be helpful as you can have that window up alongside the Auction House so you can buy everything you need
+![TSM Gathering Window](./tsmGathering.png)
 
 That wraps up this particular part of the TSM guide. We will be revising the TSM Crafting window in the next part as we will be going over Custom Prices and how we can add custom prices to items like [Blood of Sargeras](https://www.wowhead.com/item=124124/) and [Expulsom](https://www.wowhead.com/item=152668/).

@@ -10,7 +10,7 @@ So, you want to start using TradeSkillMaster to make gold. TSM is a fantastic ad
  - [TSM Introduction and TSM Groups](/tsm-guide-part-2)
  - [TSM Operations and posting our first auctions](/tsm-guide-part-3)
  - [Crafting items with TSM](./tsm-guide-part-4)
- - TSM Custom Prices
+ - [TSM Custom Prices](./tsm-guide-part-5)
  - TSM Mailing Operations
  - Warehousing Operations
  - TSM Sniper

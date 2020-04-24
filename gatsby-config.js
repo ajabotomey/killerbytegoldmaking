@@ -4,6 +4,7 @@ module.exports = {
     title: `Killerbyte Goldmaking`,
     description: `Insert generic goldmaking description here`,
     author: `@ajabotomey`,
+    image: '/KillerByteGoldMakingImage.png'
   },
   plugins: [
     `gatsby-plugin-catch-links`,
